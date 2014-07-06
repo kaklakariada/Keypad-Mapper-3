@@ -8,3 +8,8 @@ KeypadMapper3/gen
 actionbarsherlock/build
 build
 local.properties
+.idea
+actionbarsherlock/actionbarsherlock.iml
+enaikoon_resources_lib/enaikoon_resources_lib.iml
+Keypad-Mapper-3.iml
+KeypadMapper3/KeypadMapper3.iml
