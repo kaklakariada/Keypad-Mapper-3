@@ -3,6 +3,8 @@
 	<name>KeypadMapper3</name>
 	<comment></comment>
 	<projects>
+		<project>actionbarsherlock</project>
+		<project>enaikoon_resources_lib</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
