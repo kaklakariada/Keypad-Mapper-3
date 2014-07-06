@@ -4,3 +4,7 @@ enaikoon_resources_lib/bin
 actionbarsherlock/gen
 enaikoon_resources_lib/gen
 KeypadMapper3/gen
+.gradle
+actionbarsherlock/build
+build
+local.properties
