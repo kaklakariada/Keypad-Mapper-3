@@ -34,5 +34,10 @@ android {
         // by a similar customization.
         debug.setRoot('build-types/debug')
         release.setRoot('build-types/release')
+
+        packagingOptions {
+            exclude 'META-INF/LICENSE'
+            exclude 'META-INF/NOTICE'
+        }
     }
 }
